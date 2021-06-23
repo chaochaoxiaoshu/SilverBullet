@@ -1,4 +1,4 @@
-# todo
+# SilverBullet
 
 ## Project setup
 ```
